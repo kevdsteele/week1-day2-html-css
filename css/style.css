@@ -1,0 +1,53 @@
+/* html elements */
+
+a{
+color:#d21034;
+}
+
+body {
+background-color: #efeee7;
+columns: #333333;
+font-family:Georgia, 'Times New Roman', Times, serif;
+margin:0;
+padding:0;
+
+}
+
+h1 {
+color:#eee;
+font-size: 28px;
+
+}
+
+h2{
+font-size: 24px;    
+}
+
+/* Classes */
+
+.container{
+width:1024px;
+margin: 0 auto 0 auto;    
+}
+
+/* IDs */
+
+#bio-image, #contact-info, #bio-image{
+float:left;
+}
+
+#bio-image{
+margin-right:25px;
+height:200px;
+width:200px;    
+}
+
+#contact-info {
+width:30%;
+line-height:1.5;
+}
+
+#main-bio {
+width:70%;
+line-height:1.5;
+}
