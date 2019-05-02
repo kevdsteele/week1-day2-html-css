@@ -30,6 +30,10 @@ width:1024px;
 margin: 0 auto 0 auto;    
 }
 
+.header {
+background-color:#333333;
+}
+
 /* IDs */
 
 #bio-image, #contact-info, #main-bio{
