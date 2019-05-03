@@ -34,6 +34,10 @@ margin-top: 15px;
 margin-bottom: 15px;
 }
 
+ul {
+margin-left: 25px;  
+}
+
 /* Classes */
 
 .container{
