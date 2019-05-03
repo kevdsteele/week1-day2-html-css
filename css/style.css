@@ -37,6 +37,8 @@ margin: 0 auto 0 auto;
 .header {
 background-color:#333333;
 text-align:center;
+margin:0;
+padding: 10 0;
 }
 
 /* IDs */
